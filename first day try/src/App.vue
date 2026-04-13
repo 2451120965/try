@@ -2,6 +2,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
 import Person from './components/Person/index.vue'
+import Student from './components/Student/index.vue'
 </script>
 
 <template>
@@ -17,6 +18,7 @@ import Person from './components/Person/index.vue'
   <main>
     <TheWelcome />
     <Person />
+    <Student />
   </main>
 </template>
 
